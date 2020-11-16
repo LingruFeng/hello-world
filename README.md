@@ -1,7 +1,3 @@
-# hello-word
+# hello-world
 
-Is a test for repository.
-
-## add tags
-
-I just add a tag to test.
+Is a repository for CASA_i2p practice.
